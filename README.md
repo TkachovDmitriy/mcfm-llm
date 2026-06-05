@@ -1,2 +1,1 @@
-# colorised-manga
-project for creating any colorised
+make color for some pdfs 
